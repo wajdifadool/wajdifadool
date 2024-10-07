@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 
 
-### _Hi there 👋  I'm Wajde Fdool._
+### _Hi there 👋   I'm Wajde Fdool._
 
 #### I have a B.Sc. in Computer Science from Tel-Hai College.
 
 
-- I love studying and coding, especially while listening to great Lo-fi music. 🎸
--  Open to work in the field of Web Development. 🌱
+- I love studying and coding while listening to great Lo-fi music. 🎸
+- Open to work in the field of Web Development. 🌱
