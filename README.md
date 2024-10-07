@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **wajdifadool/wajdifadool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-### _Hi there 👋 I'm Wajde Fdool._
+### _Hi there 👋  I'm Wajde Fdool._
 
 #### I have a B.Sc. in Computer Science from Tel-Hai College.
 
