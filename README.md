@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### _Hi there 👋 I'm Wajde Fdool._
+
+#### I have a B.Sc. in Computer Science from Tel-Hai College.
+
+
+- I love studying and coding, especially while listening to great Lo-fi music. 🎸
+-  Open to work in the field of Web Development. 🌱
