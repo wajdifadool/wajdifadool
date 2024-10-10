@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 - I love studying and coding while listening to great Lo-fi music. 🎸
-- Open to work in the field of Web Development. 🌱
+- Open to work in the field of Web Development and BackEnd 🌱
