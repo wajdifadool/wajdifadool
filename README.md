@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### _Hi there 👋   I'm Wajde Fdool._
 
-#### I have a B.Sc. in Computer Science from Tel-Hai College.
+#### I have a B.Sc. in Computer Science from Tel-Hai University of Kiryat Shmona in the Galilee.
 
-
+- Open to work in Software, Automation, and other fields 🌱
 - I love studying and coding while listening to great Lo-fi music. 🎸
-- Open to work in the field of Software and BackEnd Development 🌱
+- I’m currently learning AWS Cloud ... ☁️
